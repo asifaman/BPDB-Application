@@ -1,0 +1,445 @@
+<?xml version="1.1" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.7" type="org.netbeans.modules.form.forminfo.JDialogFormInfo">
+  <NonVisualComponents>
+    <Component class="javax.swing.JTextField" name="jTextField1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jTextField1"/>
+      </Properties>
+    </Component>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="2"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="Panel" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="Panel" min="-2" max="-2" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="Panel">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+          <Border info="org.netbeans.modules.form.compat2.border.TitledBorderInfo">
+            <TitledBorder/>
+          </Border>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="109" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="a0" alignment="0" min="-2" max="-2" attributes="1"/>
+                      <Group type="102" alignment="0" attributes="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Component id="cancelButton" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace pref="101" max="32767" attributes="0"/>
+                                  <Component id="saveButton" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                          <Component id="a2" alignment="0" max="32767" attributes="1"/>
+                                          <Component id="a1" alignment="0" max="32767" attributes="1"/>
+                                          <Component id="a3" alignment="0" pref="91" max="32767" attributes="1"/>
+                                          <Component id="a4" alignment="0" min="-2" pref="69" max="-2" attributes="1"/>
+                                          <Component id="a6" alignment="0" max="32767" attributes="1"/>
+                                          <Component id="a7" alignment="0" max="32767" attributes="1"/>
+                                      </Group>
+                                      <Component id="a5" min="-2" pref="112" max="-2" attributes="1"/>
+                                  </Group>
+                                  <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="1" attributes="0">
+                                      <Component id="m5" pref="164" max="32767" attributes="1"/>
+                                      <Component id="m2" alignment="0" pref="164" max="32767" attributes="2"/>
+                                      <Component id="m3" alignment="1" pref="164" max="32767" attributes="1"/>
+                                      <Component id="m4" alignment="1" pref="164" max="32767" attributes="1"/>
+                                      <Component id="m1" alignment="1" pref="164" max="32767" attributes="1"/>
+                                      <Component id="m6" alignment="0" pref="164" max="32767" attributes="1"/>
+                                      <Component id="m7" alignment="0" pref="164" max="32767" attributes="1"/>
+                                      <Component id="m0" alignment="0" pref="164" max="32767" attributes="1"/>
+                                  </Group>
+                              </Group>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="a" min="-2" max="-2" attributes="0"/>
+                              <Component id="a8" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace min="-2" pref="6" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="37" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="a0" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="m0" alignment="3" min="-2" pref="36" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="a1" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="m1" alignment="3" min="-2" pref="36" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" attributes="0">
+                          <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                          <Component id="m2" pref="36" max="32767" attributes="0"/>
+                      </Group>
+                      <Group type="102" attributes="0">
+                          <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+                          <Component id="a2" min="-2" pref="14" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="m3" alignment="3" min="-2" pref="36" max="-2" attributes="0"/>
+                      <Component id="a3" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="-2" pref="29" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="m4" alignment="3" min="-2" pref="36" max="-2" attributes="0"/>
+                      <Component id="a4" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace pref="15" max="32767" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="m5" alignment="3" min="-2" pref="36" max="-2" attributes="0"/>
+                      <Component id="a5" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="a" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="8" pref="8" max="8" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" attributes="0">
+                          <EmptySpace min="-2" pref="20" max="-2" attributes="0"/>
+                          <Component id="a6" min="-2" pref="29" max="-2" attributes="0"/>
+                          <EmptySpace min="-2" pref="20" max="-2" attributes="0"/>
+                          <Component id="a7" min="-2" pref="29" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" attributes="0">
+                          <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="m6" alignment="3" min="-2" pref="36" max="-2" attributes="0"/>
+                              <Component id="a8" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                          <Component id="m7" min="-2" pref="29" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace min="-2" pref="38" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="cancelButton" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="saveButton" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="a1">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Company Name"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JComboBox" name="m1">
+          <Properties>
+            <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+              <StringArray count="4">
+                <StringItem index="0" value="DESA"/>
+                <StringItem index="1" value="CESA"/>
+                <StringItem index="2" value="PDBH"/>
+                <StringItem index="3" value="PBS"/>
+              </StringArray>
+            </Property>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="a2">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Division Name"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JComboBox" name="m2">
+          <Properties>
+            <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+              <StringArray count="7">
+                <StringItem index="0" value="DHAKA"/>
+                <StringItem index="1" value="BARISAL"/>
+                <StringItem index="2" value="CHITTAGONG"/>
+                <StringItem index="3" value="SYLHET"/>
+                <StringItem index="4" value="RAJSHAHI"/>
+                <StringItem index="5" value="KHULNA"/>
+                <StringItem index="6" value="RANGPUR"/>
+              </StringArray>
+            </Property>
+            <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[32, 20]"/>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="m2ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="a3">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="District Name"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JComboBox" name="m3">
+          <Properties>
+            <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+              <StringArray count="64">
+                <StringItem index="0" value="BHOLA"/>
+                <StringItem index="1" value="BARISAL"/>
+                <StringItem index="2" value="JHALOKHATI"/>
+                <StringItem index="3" value="PATUAKHALI"/>
+                <StringItem index="4" value="BARGUNA"/>
+                <StringItem index="5" value="PEROJPUR"/>
+                <StringItem index="6" value="PANCHARGARH"/>
+                <StringItem index="7" value="THAKURGAON"/>
+                <StringItem index="8" value="NILPHAMARI"/>
+                <StringItem index="9" value="LALMONIRHAT"/>
+                <StringItem index="10" value="DINAJPUR"/>
+                <StringItem index="11" value="RANGPUR"/>
+                <StringItem index="12" value="KURIGRAM"/>
+                <StringItem index="13" value="NAWABGANJ"/>
+                <StringItem index="14" value="NAOGAON"/>
+                <StringItem index="15" value="JOYPURHAT"/>
+                <StringItem index="16" value="GAIBANDHA"/>
+                <StringItem index="17" value="RAJSHAHI"/>
+                <StringItem index="18" value="BOGRA"/>
+                <StringItem index="19" value="JAMALPUR"/>
+                <StringItem index="20" value="SHERPUR"/>
+                <StringItem index="21" value="NATORE"/>
+                <StringItem index="22" value="SIRAJGANJ"/>
+                <StringItem index="23" value="TANGAIL"/>
+                <StringItem index="24" value="MYMENSINGH"/>
+                <StringItem index="25" value="NETRAKONA"/>
+                <StringItem index="26" value="SUNAMGANJ"/>
+                <StringItem index="27" value="SYLHET"/>
+                <StringItem index="28" value="HABIGANJ"/>
+                <StringItem index="29" value="GAZIPUR"/>
+                <StringItem index="30" value="KISHORGANJ"/>
+                <StringItem index="31" value="MOULVIBAZAR"/>
+                <StringItem index="32" value="NARSINGDI"/>
+                <StringItem index="33" value="DHAKA"/>
+                <StringItem index="34" value="PABNA"/>
+                <StringItem index="35" value="KUSHTIA"/>
+                <StringItem index="36" value="MEHERPUR"/>
+                <StringItem index="37" value="RAJBARI"/>
+                <StringItem index="38" value="MANIKGANJ"/>
+                <StringItem index="39" value="FENI"/>
+                <StringItem index="40" value="CHANDPUR"/>
+                <StringItem index="41" value="SARIATPUR"/>
+                <StringItem index="42" value="MADARIPUR"/>
+                <StringItem index="43" value="GOPALGANJ"/>
+                <StringItem index="44" value="NARIL"/>
+                <StringItem index="45" value="MAGURA"/>
+                <StringItem index="46" value="JESSORE"/>
+                <StringItem index="47" value="COMMILLA"/>
+                <StringItem index="48" value="KHULNA"/>
+                <StringItem index="49" value="SATKHIRA"/>
+                <StringItem index="50" value="BAGERHAT"/>
+                <StringItem index="51" value="COX&apos;S BAZAR"/>
+                <StringItem index="52" value="BANDARBAN"/>
+                <StringItem index="53" value="CHITTAGONG"/>
+                <StringItem index="54" value="RANGAMATI"/>
+                <StringItem index="55" value="KHAGRACHHARI"/>
+                <StringItem index="56" value="NOAKHALI"/>
+                <StringItem index="57" value="LAKSHMIPUR"/>
+                <StringItem index="58" value="CHUADANGA"/>
+                <StringItem index="59" value="JHENAIDAH"/>
+                <StringItem index="60" value="MUNSHIGANJ"/>
+                <StringItem index="61" value="FARIDPUR"/>
+                <StringItem index="62" value="NARIONGANJ"/>
+                <StringItem index="63" value="BRAHMANBARIA"/>
+              </StringArray>
+            </Property>
+            <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+              <Color id="Default Cursor"/>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="m3ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="a4">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Area Zone"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JComboBox" name="m4">
+          <Properties>
+            <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+              <StringArray count="5">
+                <StringItem index="0" value="General area"/>
+                <StringItem index="1" value="Residential area"/>
+                <StringItem index="2" value="Commerical area"/>
+                <StringItem index="3" value="Business area"/>
+                <StringItem index="4" value="Industrial area"/>
+              </StringArray>
+            </Property>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="a5">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Total Power Amount"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="m5">
+        </Component>
+        <Component class="javax.swing.JButton" name="cancelButton">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="11" style="1"/>
+            </Property>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+              <Image iconType="3" name="/icon/cancel f.png"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Cancel"/>
+            <Property name="maximumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[101, 33]"/>
+            </Property>
+            <Property name="minimumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[101, 33]"/>
+            </Property>
+            <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[101, 33]"/>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="cancelButtonActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="saveButton">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="11" style="1"/>
+            </Property>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+              <Image iconType="3" name="/icon/save f.png"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Save"/>
+            <Property name="maximumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[101, 33]"/>
+            </Property>
+            <Property name="minimumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[101, 33]"/>
+            </Property>
+            <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[101, 33]"/>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="saveButtonActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="a6">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Demand Power Amount"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="m6">
+          <Properties>
+            <Property name="autoscrolls" type="boolean" value="false"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="a7">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="11" style="1"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="0" red="0" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Load Sheading"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="m7">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="11" style="1"/>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="m7MouseClicked"/>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="m7ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="a0">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="12" style="1"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="0" red="33" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Distribution Number"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="m0">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="66" type="rgb"/>
+            </Property>
+            <Property name="editable" type="boolean" value="false"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="a">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="11" style="1"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="ff" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="mw"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="a8">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="11" style="1"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="ff" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="mw"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
